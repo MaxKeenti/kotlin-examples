@@ -1,3 +1,4 @@
+import kotlin.math.sqrt;
 fun main() {
     var a = 1.0;
     var b = 5.0;
